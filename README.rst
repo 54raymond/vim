@@ -16,7 +16,7 @@ Install it by a one-line command
 
 ::
 
-    $ curl https://raw.githubusercontent.com/54raymond/vim/go/INSTALL -o - | sh
+    $ curl https://raw.githubusercontent.com/54raymond/vimrc/master/INSTALL -o - | sh
 
 
 Update
