@@ -1,11 +1,7 @@
-LxYu's Vim Config
+54raymond's Vim Config
 =================
 
-.. image:: https://d2weczhvl823v0.cloudfront.net/lxyu/vim/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
-
-LxYu's vim config files.
+54raymond's vim config files.
 
 Inspired by `spf13 <http://spf13.com>`_ and `amix <http://amix.dk>`_.
 
@@ -20,7 +16,7 @@ Install it by a one-line command
 
 ::
 
-    $ curl https://raw.githubusercontent.com/lxyu/vim/go/INSTALL -o - | sh
+    $ curl https://raw.githubusercontent.com/54raymond/vim/go/INSTALL -o - | sh
 
 
 Update
